@@ -1,6 +1,6 @@
 # archi-task-mvvm
 
-<img src="ss1" alt="No Image">  <img src="ss2" alt="No Image"> 
+<img src="ss1.PNG" alt="No Image">  <img src="ss2.PNG" alt="No Image"> 
 
 The MVVM (Model-View-ViewModel) is one of the most popular architectures among all and one of the
  most used ones in mobile application development. As a learning process, I have built this
